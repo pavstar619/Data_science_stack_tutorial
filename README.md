@@ -1,6 +1,6 @@
 # Data_science_stack_tutorial
 
-Python module exercises for 
+Python library exercises for 
 <ul>
   <li>Numpy</li>
   <li>Pandas</li>  
